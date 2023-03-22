@@ -11,5 +11,11 @@ This script allows you to animate texts and images on your command line, making 
 Simply run our script and select the text or image you want to animate. We support many different simple animations.
 Our script works on many platforms and is compatible with most terminals, so you can use it anywhere and anytime. Don't wait, start using our script today and add some creativity and spectacle to your command line!
 
+# Source Сode
 
-[Source Сode](https://github.com/dylanaraps/neofetch)
+
+
+
+[neofetch](https://github.com/dylanaraps/neofetch)
+[Colorama](https://github.com/tartley/colorama)
+[]()
