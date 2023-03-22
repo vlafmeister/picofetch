@@ -12,10 +12,6 @@ Simply run our script and select the text or image you want to animate. We suppo
 Our script works on many platforms and is compatible with most terminals, so you can use it anywhere and anytime. Don't wait, start using our script today and add some creativity and spectacle to your command line!
 
 # Source Сode
-
-
-
-
-[neofetch](https://github.com/dylanaraps/neofetch)
-[Colorama](https://github.com/tartley/colorama)
+- [neofetch](https://github.com/dylanaraps/neofetch)
+- [Colorama](https://github.com/tartley/colorama)
 []()
