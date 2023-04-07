@@ -29,5 +29,18 @@ Our script works on many platforms and is compatible with most terminals, so you
 - mkdir -p ~/.config/neofetch
 - download this [file](https://github.com/vlafmeister/picofetch/blob/main/.config/neofetch/config.conf) and move to ~/.config/neofetch
 
+# Usage
+
+```
+
+~$ git clone https://github.com/vlafmeister/picofetch
+
+~$ unzip -tq picofetch.zip
+
+~$ cd picofetch && chmod +x picofetch.sh
+
+~$ sudo ./picofetch.sh
+
+```
 
 
