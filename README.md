@@ -35,8 +35,6 @@ Our script works on many platforms and is compatible with most terminals, so you
 
 ~$ git clone https://github.com/vlafmeister/picofetch
 
-~$ unzip -tq picofetch.zip
-
 ~$ cd picofetch && chmod +x picofetch.sh
 
 ~$ sudo ./picofetch.sh
