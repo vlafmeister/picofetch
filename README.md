@@ -24,5 +24,10 @@ Our script works on many platforms and is compatible with most terminals, so you
 |_|                                      
 
 ```
-#
+# Neofetch
+- sudo pacman - S neofetch
+- mkdir -p ~/.config/neofetch
+- download this [file](https://github.com/vlafmeister/picofetch/blob/main/.config/neofetch/config.conf) and move to ~/.config/neofetch
+
+
 
