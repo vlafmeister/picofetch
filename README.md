@@ -1,5 +1,4 @@
 #
-<h3 align="center"><img src="https://i.imgur.com/D0qdrFE.jpeg" alt="logo" height="100px"></h3>
 <p align="center">Simple cross-platform animation of pictures in the terminal</p>
 
 <p align="center">
