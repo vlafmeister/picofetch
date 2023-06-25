@@ -1,7 +1,3 @@
-#
-<h3 align="center"><img src="https://i.imgur.com/D0qdrFE.jpeg" alt="logo" height="100px"></h3>
-<p align="center">Simple cross-platform animation of pictures in the terminal</p>
-
 <p align="center">
 <a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 <a href="./LICENSE.md"><img src="https://img.shields.io/badge/Release-v1.0.0-blue"></a>
