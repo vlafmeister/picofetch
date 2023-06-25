@@ -1,5 +1,4 @@
 #
-<h3 align="center"><img src="https://i.imgur.com/D0qdrFE.jpeg" alt="logo" height="100px"></h3>
 <p align="center">Simple cross-platform animation of pictures in the terminal</p>
 
 <p align="center">
@@ -14,14 +13,14 @@ Our script works on many platforms and is compatible with most terminals, so you
 
 
 ```
-       _            __     _       _     
-      (_)          / _|   | |     | |    
- _ __  _  ___ ___ | |_ ___| |_ ___| |__  
-| '_ \| |/ __/ _ \|  _/ _ \ __/ __| '_ \ 
+       _            __     _       _
+      (_)          / _|   | |     | |
+ _ __  _  ___ ___ | |_ ___| |_ ___| |__
+| '_ \| |/ __/ _ \|  _/ _ \ __/ __| '_ \
 | |_) | | (_| (_) | ||  __/ || (__| | | |
 | .__/|_|\___\___/|_| \___|\__\___|_| |_|
-| |                                      
-|_|                                      
+| |
+|_|
 
 ```
 # Neofetch
@@ -40,5 +39,3 @@ Our script works on many platforms and is compatible with most terminals, so you
 ~$ sudo ./picofetch.sh
 
 ```
-
-
